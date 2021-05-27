@@ -1,6 +1,11 @@
 # MESINESP2
 
-### 1. Pre process "Additional_data" data files
+### 1. Setup
+#### 1.1 Get "Additional_data" files
+```
+./get_data.sh
+```
+#### 1.2 Pre process
 ```
 python pre_process_additional_data.py <track> <subset>
 ```
