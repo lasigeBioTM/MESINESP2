@@ -1,4 +1,4 @@
-Code associated with the participation of the LASIGE_BioTM team in [MESINESP2 Medical Semantic Indexing in Spanish Shared Task](https://temu.bsc.es/mesinesp2/)
+Code associated with the participation of the LASIGE_BioTM team in [MESINESP2 (Medical Semantic Indexing in Spanish Shared Task)](https://temu.bsc.es/mesinesp2/)
 
 The pipeline includes two modules:
 - Entity Linking: linking the recognized entities provided by the organization to [DeCS](https://decs.bvsalud.org/) terms
