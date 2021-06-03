@@ -7,4 +7,10 @@ The pipeline includes two modules:
 - preprocessing: processes MESINESP2 corpus files (append extracted entities to text, stemming) for input of the classification algorithm
 - Extreme Multi-Label Classification: assigns each doc the top-20 relevant DeCS codes
 
-Build a Docker image from the provided Dockerfile. Go to each dir for specific script execution instructions.
+To download the required data:
+
+```
+./get_data.sh
+```
+
+Then build a Docker image from the provided Dockerfile. Go to each dir for specific script execution instructions.
